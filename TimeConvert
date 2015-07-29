@@ -1,28 +1,8 @@
 def TimeConvert(num)
-  hour= num/ 60
-  minute= num% 60
+  hours = num/60
+  minutes= num % 60
   
   return "#{hours}:#{minutes}"
 end
    
-TimeConvert(STDIN.gets)    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+TimeConvert(STDIN.gets)  
