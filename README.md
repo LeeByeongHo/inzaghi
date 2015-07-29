@@ -1,2 +1,0 @@
-# inzaghi
-ronaldo
